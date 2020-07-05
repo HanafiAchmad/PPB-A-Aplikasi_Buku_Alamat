@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797024174821",
+    "firebase_url": "https://buku-alamat-7d3c7.firebaseio.com",
+    "project_id": "buku-alamat-7d3c7",
+    "storage_bucket": "buku-alamat-7d3c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797024174821:android:029c7dc0ec20ca35544a0c",
+        "android_client_info": {
+          "package_name": "com.tugasppb.bukualamat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797024174821-5621aptprpju05fqtq3o7dkbq02earrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFY9PP6sLTyp2Mp6aGtt_eppDVBjeUzRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797024174821-5621aptprpju05fqtq3o7dkbq02earrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
